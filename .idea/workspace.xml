@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e71ea52c-b951-4e09-beac-4a37ae0b57e0" name="更改" comment="docs: init">
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/guide/depoly/linux/docker-compose.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide/depoly/linux/docker-compose.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/guide/depoly/linux/docker.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide/depoly/linux/docker.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +75,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.docs:build" />
         <item itemvalue="npm.docs:dev" />
+        <item itemvalue="npm.docs:build" />
       </list>
     </recent_temporary>
   </component>
@@ -90,6 +92,8 @@
       <workItem from="1717366323286" duration="1004000" />
       <workItem from="1717394504778" duration="760000" />
       <workItem from="1717398642285" duration="57000" />
+      <workItem from="1717402205005" duration="26000" />
+      <workItem from="1717411898979" duration="1058000" />
     </task>
     <task id="LOCAL-00001" summary="docs: init">
       <option name="closed" value="true" />
@@ -115,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717399081949</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="docs: init">
+      <option name="closed" value="true" />
+      <created>1717399204973</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717399204973</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
