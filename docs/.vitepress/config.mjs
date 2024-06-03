@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "NvlBot - Docs",
   description: "Neverlose Bot 使用文档",
-  base: ".",
+  base: "/NvlBot-Docs",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
