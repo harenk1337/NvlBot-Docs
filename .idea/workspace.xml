@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e71ea52c-b951-4e09-beac-4a37ae0b57e0" name="更改" comment="docs: init">
+    <list default="true" id="e71ea52c-b951-4e09-beac-4a37ae0b57e0" name="更改" comment="docs: docker">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/guide/depoly/linux/docker-compose.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide/depoly/linux/docker-compose.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/guide/depoly/linux/docker.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide/depoly/linux/docker.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/guide/quickstart.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/guide/quickstart.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +74,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.docs:dev" />
         <item itemvalue="npm.docs:build" />
+        <item itemvalue="npm.docs:dev" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +92,8 @@
       <workItem from="1717394504778" duration="760000" />
       <workItem from="1717398642285" duration="57000" />
       <workItem from="1717402205005" duration="26000" />
-      <workItem from="1717411898979" duration="1058000" />
+      <workItem from="1717411898979" duration="1301000" />
+      <workItem from="1717414432144" duration="412000" />
     </task>
     <task id="LOCAL-00001" summary="docs: init">
       <option name="closed" value="true" />
@@ -127,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717399204973</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="docs: docker">
+      <option name="closed" value="true" />
+      <created>1717413066206</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717413066207</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +154,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="docs: init" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: init" />
+    <MESSAGE value="docs: docker" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: docker" />
   </component>
 </project>

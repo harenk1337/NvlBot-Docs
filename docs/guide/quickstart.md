@@ -56,3 +56,10 @@ OneBot 实现: [NapCatQQ](https://github.com/NapNeko/NapCatQQ)
 ```
 
 :::
+
+## 项目声明
+* 本项目仅供个人学习交流，切勿用于违法用途及商业用途
+
+## 联系我
+
+* QQ：731113337
