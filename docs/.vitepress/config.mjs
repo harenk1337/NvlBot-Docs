@@ -24,6 +24,7 @@ export default defineConfig({
         items: [
           {
             text: "快速开始",
+            collapsed: true,
             link: "/guide/quickstart",
             items: [{ text: "安装 JDK", link: "/guide/jdk_install" }],
           },
